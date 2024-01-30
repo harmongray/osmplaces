@@ -1,4 +1,4 @@
-# `osmplaces` readme:
+# 🌏 osmplaces readme:
 
 ## Installation:
 Use `pipx install .` in the `osmplaces` repository. That's it!
