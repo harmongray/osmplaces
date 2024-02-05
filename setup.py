@@ -10,8 +10,9 @@ setup(name='osmplaces',
         },
         install_requires=[
             'tqdm',
-            'argparse'
-                ],
+            'argparse',
+            'xattr'
+            ],
         python_requires='>=3.8',
         description='A tool for parsing place names from osmosis output',
         author='Harmon Grey',
